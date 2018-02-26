@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/assignment-spark-01_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/sparkapp/functionality[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus/sparkapp/functionality[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/sparkapp/functionality/Operations$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus/sparkapp/functionality/Operations$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/sparkapp/functionality/Operations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus/sparkapp/functionality/Operations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/sparkapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus/sparkapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/sparkapp/functionality/Operations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-spark-01/target/scala-2.11/classes/edu/knoldus/sparkapp/functionality/Operations$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
